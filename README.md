@@ -23,7 +23,8 @@ Markdown - это легковесная вики-разметка. Главна
 - [Markdown home](http://daringfireball.net/projects/markdown/syntax) - описание формата и философия markdown от автора
 - [Pandoc](http://johnmacfarlane.net/pandoc/) - конвертер markdown в другие форматы
 - [Web Essentials](http://vswebessentials.com/) - плагин для Visual Studio, включает в себя поддержку markdown
-- [MarkdownPad2](http://markdownpad.com/) - программа бесплатная для частного использования. Не подходит бесплатно в корпоративной среде.
+- [MarkdownPad2](http://markdownpad.com/) - удобный markdown блокнот - бесплатный для частного использования.
+- [Remark](http://gnab.github.io/remark/#1) - делаем презентации в markdown
 
 Как включить расцветку в Notepad++
 ==
