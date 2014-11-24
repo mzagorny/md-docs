@@ -23,6 +23,17 @@ Markdown - это легковесная вики-разметка. Главна
 - [Markdown home](http://daringfireball.net/projects/markdown/syntax) - описание формата и философия markdown от автора
 - [Pandoc](http://johnmacfarlane.net/pandoc/) - конвертер markdown в другие форматы
 - [Web Essentials](http://vswebessentials.com/) - плагин для Visual Studio, включает в себя поддержку markdown
+- [MarkdownPad2](http://markdownpad.com/) - программа бесплатная для частного использования. Не подходит бесплатно в корпоративной среде.
+
+Как включить расцветку в Notepad++
+==
+
+1. Сохраняем содержимое [отсюда](https://raw.githubusercontent.com/Edditoria/markdown_npp_zenburn/master/default_theme/userDefineLang.xml) в xml файл с произвольным именем
+1. Запускаем npp
+1. Нажимаем меню Language - > Define your language...
+1. В появившемся окне нажимаем кнопку Import...
+1. Выбираем xml файл который мы сохранили
+1. Перезапускаем npp
 
 
 
